@@ -1,0 +1,17 @@
+{
+  "name": "archive-image-viewer",
+  "version": "0.0.1",
+  "description": "A zooming and panning plugin inspired by google photos for your web images.",
+  "main": "imageviewer.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/golddream-y/ImageViewer.git"
+  },
+  "author": "Sudhanshu Yadav",
+  "modify":"golddream",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/golddream-y/ImageViewer/issues"
+  },
+  "homepage": "https://github.com/golddream-y/ImageViewer#readme"
+}
